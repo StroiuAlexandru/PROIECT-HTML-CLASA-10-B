@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/realistic-wood-texture-background_23-2149266926.jpg?w=2000');
+    background-color: palegoldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: italic;
+}
+.meniu {
+    background-image: url('https://images.assetsdelivery.com/compings_v2/sasinparaksa/sasinparaksa1611/sasinparaksa161100253.jpg');
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    padding: 20px;
+    border-radius: 30px;
+    border:5px solid black;
+}
